@@ -1,5 +1,8 @@
 _repo: Le-roi-des-montagnes_72773
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72773-h/images/cover.jpg
 creator:
   author:
     agent_name: About, Edmond
@@ -18,6 +21,8 @@ creator:
     - https://en.wikipedia.org/wiki/Edmond_François_Valentin_About
     - https://fr.wikipedia.org/wiki/Edmond_About
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72773#Le-roi-des-montagnes
 gutenberg_issued: '2024-01-21'
 gutenberg_type: Text
 identifiers:
